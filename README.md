@@ -10,4 +10,4 @@ This supports responsive design testing,
 enabling users to see how their projects behave
 on different devices and screen sizes.
 
-https://github.com/Riya78278/CODEPEN/issues/1#issue-2088783790
+(https://github.com/Riya78278/CODEPEN/assets/142240539/c1fe6c3a-5a7f-43a8-939e-b5eeeff336f9)https://github.com/Riya78278/CODEPEN/assets/142240539/c1fe6c3a-5a7f-43a8-939e-b5eeeff336f9
